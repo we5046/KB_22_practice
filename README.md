@@ -16,7 +16,8 @@ KB IT's Your Life 7기 22회차(전공)
 
 ## 브랜치 전략
 
-ISSUE*(번호)*작업 내용
+<!-- prettier-ignore -->
+ISSUE_(번호)_작업 내용
 
 ## 수정 이력
 
